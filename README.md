@@ -31,7 +31,7 @@ The example below illustrates an `"beta:facilityType"` property for an `Facility
 
 ## Source data
 
-Please see the [spreadsheet](https://docs.google.com/spreadsheets/d/1ZZ1J13Ry3y8p5nA2Voady98A3dZocvGebuNu1PYIveI/edit#gid=1428772490) used to generate the JSON-LD representation, comments welcome!
+Please see the [spreadsheet](https://docs.google.com/spreadsheets/d/1ZZ1J13Ry3y8p5nA2Voady98A3dZocvGebuNu1PYIveI/edit#gid=0) used to generate the JSON-LD representation, comments welcome!
 
 
 ## Licence
