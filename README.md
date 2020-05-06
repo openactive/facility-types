@@ -8,9 +8,9 @@ This list is in a draft state, however every effort will be made in subsequent r
 
 ## Documentation
 
-This repository holds the [JSON-LD definition](https://www.openactive.io/facility-types/facility-types.jsonld) of the OpenActive Accessibility Support controlled vocabulary.
+This repository holds the [JSON-LD definition](https://openactive.io/facility-types/facility-types.jsonld) of the OpenActive Accessibility Support controlled vocabulary.
 
-This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/facility-types"` (which will return the [JSON-LD definition](https://www.openactive.io/facility-types/facility-types.jsonld) if the `Accept` header contains `application/ld+json`).
+This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/facility-types"` (which will return the [JSON-LD definition](https://openactive.io/facility-types/facility-types.jsonld) if the `Accept` header contains `application/ld+json`).
 
 Please raise requests for content or issues related to this controlled vocabulary via [GitHub](https://github.com/openactive/facility-types/issues). 
 
