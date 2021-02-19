@@ -8,15 +8,17 @@ This list is in a draft state, however every effort will be made in subsequent r
 
 ## Documentation
 
-This repository holds the [JSON-LD definition](https://openactive.io/facility-types/facility-types.jsonld) of the OpenActive Accessibility Support controlled vocabulary.
+This repository holds the [JSON-LD definition](https://openactive.io/facility-types/facility-types.jsonld) of the OpenActive Facility Types controlled vocabulary.
 
 This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/facility-types"` (which will return the [JSON-LD definition](https://openactive.io/facility-types/facility-types.jsonld) if the `Accept` header contains `application/ld+json`).
+
+This controlled vocabulary SHOULD be retrieved frequently using an HTTP GET and cached within an application, to ensure that the most up-to-date version is displayed to the user, while also protecting against network failure when accessing the underlying resource. To access this controlled vocabulary the application MUST GET the URL `"https://openactive.io/facility-types/facility-types.jsonld"` (note there is no www in the URL) which does not require a specific `Accept` header, and is cached via CDN. The controlled vocabulary is also available via a GET of the URL `"https://openactive.io/facility-types"` using an `Accept` header of `application/ld+json`, for completeness, however this shorter URL MUST NOT be used in production.
 
 Please raise requests for content or issues related to this controlled vocabulary via [GitHub](https://github.com/openactive/facility-types/issues). 
 
 ## Example use
 
-The example below illustrates an `"beta:facilityType"` property for an `FacilityUse` that supports all defined accessibility groups.
+The example below illustrates an `"beta:facilityType"` property for an `FacilityUse` that describes a 3G Artificial Grass pitch.
 
 ```json
 "beta:facilityType": [
