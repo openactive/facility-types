@@ -18,7 +18,7 @@ Please raise requests for content or issues related to this controlled vocabular
 
 ## Example use
 
-The example below illustrates an `"beta:facilityType"` property for an `FacilityUse` that describes a 3G Artificial Grass pitch.
+The example below illustrates an `"facilityType"` property for an `FacilityUse` that describes a 3G Artificial Grass pitch.
 
 ```json
 "facilityType": [
