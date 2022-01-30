@@ -21,7 +21,7 @@ Please raise requests for content or issues related to this controlled vocabular
 The example below illustrates an `"beta:facilityType"` property for an `FacilityUse` that describes a 3G Artificial Grass pitch.
 
 ```json
-"beta:facilityType": [
+"facilityType": [
   {
     "type": "Concept",
     "id": "https://openactive.io/facility-types#a5ac16fe-06ac-4bc1-93f7-69ff3bfcf3b9",
