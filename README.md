@@ -24,8 +24,8 @@ The example below illustrates an `"facilityType"` property for an `FacilityUse` 
 "facilityType": [
   {
     "type": "Concept",
-    "id": "https://openactive.io/facility-types#a5ac16fe-06ac-4bc1-93f7-69ff3bfcf3b9",
-    "prefLabel": "3G Artificial Grass",
+    "id": "https://openactive.io/facility-types#a1f82b7a-1258-4d9a-8dc5-bfc2ae961651",
+    "prefLabel": "Squash Court",
     "inScheme": "https://openactive.io/facility-types"
   }
 ]
