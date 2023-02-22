@@ -79,7 +79,7 @@
       "id": "https://openactive.io/facility-types#2d333183-6a6d-4a95-aad4-c5699f705b14",
       "prefLabel": "Cricket Net",
       "activity": [
-        "https://openactive.io/activity-list#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec"
+        "https://openactive.io/activity-list#ebfabffe-1218-4c7f-a9d5-a6adf37dd503"
       ]
     },
     {
@@ -101,17 +101,14 @@
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#619f3a87-10e2-4611-b178-088a13748a98",
-      "prefLabel": "Drama Studio",
-      "activity": [
-        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
-      ]
+      "prefLabel": "Drama Studio"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#49d9edb9-4db2-4e60-9dfa-b61ca7e21b1a",
       "prefLabel": "Driving Range",
       "activity": [
-        "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
+        "https://openactive.io/activity-list#920c6d6b-a912-43bb-ae3c-0378b8ca0855"
       ]
     },
     {
