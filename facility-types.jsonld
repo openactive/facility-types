@@ -16,9 +16,7 @@
       "id": "https://openactive.io/facility-types#a1f82b7a-1258-4d9a-8dc5-bfc2ae961651",
       "prefLabel": "Squash Court",
       "activity": [
-        "https://openactive.io/activity-list#32225241-1c8c-4ba3-b540-22b710433c18",
-        "https://openactive.io/activity-list#b7845b8a-4c0c-4a8f-93d3-d41d62eec889",
-        "https://openactive.io/activity-list#2003612f-c42e-4399-8056-0630d09492d2"
+        "https://openactive.io/activity-list#b7845b8a-4c0c-4a8f-93d3-d41d62eec889"
       ]
     },
     {
@@ -194,15 +192,17 @@
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#1204c026-b2db-4f2f-b0c5-21a7f41f7284",
-      "prefLabel": "Racquetball Court"
+      "prefLabel": "Racquetball Court",
+      "activity": [
+        "https://openactive.io/activity-list#32225241-1c8c-4ba3-b540-22b710433c18"
+      ]
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#0e847c2f-d3c9-4c89-9fc1-43fb82de4395",
       "prefLabel": "Rugby Pitch",
       "activity": [
-        "https://openactive.io/activity-list#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/activity-list#a7f0a364-a496-4446-aec6-594a629353b3"
+        "https://openactive.io/activity-list#5d528d2f-83df-482e-bfb9-fcaee5b85f4a"
       ]
     },
     {
