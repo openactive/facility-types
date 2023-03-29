@@ -17,8 +17,7 @@
       "prefLabel": "Squash Court",
       "activity": [
         "https://openactive.io/activity-list#32225241-1c8c-4ba3-b540-22b710433c18",
-        "https://openactive.io/activity-list#b7845b8a-4c0c-4a8f-93d3-d41d62eec889",
-        "https://openactive.io/activity-list#2003612f-c42e-4399-8056-0630d09492d2"
+        "https://openactive.io/activity-list#b7845b8a-4c0c-4a8f-93d3-d41d62eec889"
       ]
     },
     {
@@ -79,7 +78,7 @@
       "id": "https://openactive.io/facility-types#2d333183-6a6d-4a95-aad4-c5699f705b14",
       "prefLabel": "Cricket Net",
       "activity": [
-        "https://openactive.io/activity-list#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec"
+        "https://openactive.io/activity-list#ebfabffe-1218-4c7f-a9d5-a6adf37dd503"
       ]
     },
     {
@@ -101,17 +100,14 @@
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#619f3a87-10e2-4611-b178-088a13748a98",
-      "prefLabel": "Drama Studio",
-      "activity": [
-        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
-      ]
+      "prefLabel": "Drama Studio"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#49d9edb9-4db2-4e60-9dfa-b61ca7e21b1a",
       "prefLabel": "Driving Range",
       "activity": [
-        "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
+        "https://openactive.io/activity-list#920c6d6b-a912-43bb-ae3c-0378b8ca0855"
       ]
     },
     {
@@ -204,6 +200,7 @@
       "id": "https://openactive.io/facility-types#0e847c2f-d3c9-4c89-9fc1-43fb82de4395",
       "prefLabel": "Rugby Pitch",
       "activity": [
+        "https://openactive.io/activity-list#5d528d2f-83df-482e-bfb9-fcaee5b85f4a",
         "https://openactive.io/activity-list#9e143963-8f17-41ab-8915-3828c5a9ddae",
         "https://openactive.io/activity-list#a7f0a364-a496-4446-aec6-594a629353b3"
       ]
