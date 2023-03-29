@@ -193,9 +193,7 @@
     {
       "type": "Concept",
       "id": "https://openactive.io/facility-types#1204c026-b2db-4f2f-b0c5-21a7f41f7284",
-      "prefLabel": "Racquetball Court",
-      "activity": [
-      ]
+      "prefLabel": "Racquetball Court"
     },
     {
       "type": "Concept",
