@@ -201,6 +201,96 @@
       "topConceptOf": "https://openactive.io/facility-types"
     },
     {
+      "id": "https://openactive.io/facility-types#d365ee78-4aab-48f7-848e-382fb721f7c4",
+      "identifier": "d365ee78-4aab-48f7-848e-382fb721f7c4",
+      "type": "Concept",
+      "prefLabel": "Multi Purpose Room",
+      "notation": "multi_purpose_room",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#7ff595ff-14fc-4e51-8c82-ac8f53af5244",
+      "identifier": "7ff595ff-14fc-4e51-8c82-ac8f53af5244",
+      "type": "Concept",
+      "prefLabel": "Multi Use Games Area",
+      "notation": "multi_use_games_area",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#bb0e065a-6d11-4dd2-9151-b0e5962af6ec",
+      "identifier": "bb0e065a-6d11-4dd2-9151-b0e5962af6ec",
+      "type": "Concept",
+      "prefLabel": "Music Suite",
+      "notation": "music_suite",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#098aca40-72fd-4dc3-9479-b98a319ead86",
+      "identifier": "098aca40-72fd-4dc3-9479-b98a319ead86",
+      "type": "Concept",
+      "prefLabel": "Netball Court",
+      "activity": [
+        "https://openactive.io/activity-list#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90"
+      ],
+      "notation": "netball_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#7a13f426-d2bc-4464-8a9b-18b30569b263",
+      "identifier": "7a13f426-d2bc-4464-8a9b-18b30569b263",
+      "type": "Concept",
+      "prefLabel": "Padel Tennis Court",
+      "notation": "padel_tennis_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#cf44873e-855b-478b-94c3-01aa3bd4609f",
+      "identifier": "cf44873e-855b-478b-94c3-01aa3bd4609f",
+      "type": "Concept",
+      "prefLabel": "Pickleball Court",
+      "activity": [
+        "https://openactive.io/activity-list#d354b58e-0c97-47c8-92cb-937b91d56eef"
+      ],
+      "notation": "pickleball_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#1204c026-b2db-4f2f-b0c5-21a7f41f7284",
+      "identifier": "1204c026-b2db-4f2f-b0c5-21a7f41f7284",
+      "type": "Concept",
+      "prefLabel": "Racquetball Court",
+      "notation": "racquetball_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#0e847c2f-d3c9-4c89-9fc1-43fb82de4395",
+      "identifier": "0e847c2f-d3c9-4c89-9fc1-43fb82de4395",
+      "type": "Concept",
+      "prefLabel": "Rugby Pitch",
+      "activity": [
+        "https://openactive.io/activity-list#9e143963-8f17-41ab-8915-3828c5a9ddae",
+        "https://openactive.io/activity-list#a7f0a364-a496-4446-aec6-594a629353b3"
+      ],
+      "notation": "rugby_pitch",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#4f9485d1-c205-4aae-81e3-8a0c3a1b7a30",
+      "identifier": "4f9485d1-c205-4aae-81e3-8a0c3a1b7a30",
+      "type": "Concept",
+      "prefLabel": "School Hall",
+      "notation": "school_hall",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#0c8731e0-2a4e-47b1-8908-71b96f85ebb3",
+      "identifier": "0c8731e0-2a4e-47b1-8908-71b96f85ebb3",
+      "type": "Concept",
+      "prefLabel": "Spin Studio",
+      "notation": "spin_studio",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
       "id": "https://openactive.io/facility-types#da364f9b-8bb2-490e-9e2f-1068790b9e35",
       "identifier": "da364f9b-8bb2-490e-9e2f-1068790b9e35",
       "type": "Concept",
@@ -219,6 +309,47 @@
         "https://openactive.io/activity-list#2003612f-c42e-4399-8056-0630d09492d2"
       ],
       "notation": "squash_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#5b5e33b7-dc1f-44ba-8122-2c051a533959",
+      "identifier": "5b5e33b7-dc1f-44ba-8122-2c051a533959",
+      "type": "Concept",
+      "prefLabel": "Table Tennis Table",
+      "notation": "table_tennis_table",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#becfafc0-c63f-444c-aed5-a3665f2d172d",
+      "identifier": "becfafc0-c63f-444c-aed5-a3665f2d172d",
+      "type": "Concept",
+      "prefLabel": "Tennis Court",
+      "activity": [
+        "https://openactive.io/activity-list#f2ea7405-6098-4378-b0fe-4e398a659fc4"
+      ],
+      "notation": "tennis_court",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#5b90106e-a910-4695-9463-8fca9f93aa9e",
+      "identifier": "5b90106e-a910-4695-9463-8fca9f93aa9e",
+      "type": "Concept",
+      "prefLabel": "Trampoline",
+      "activity": [
+        "https://openactive.io/activity-list#0082b27f-8be5-4ade-ae1f-5f0b2be9e164"
+      ],
+      "notation": "trampoline",
+      "topConceptOf": "https://openactive.io/facility-types"
+    },
+    {
+      "id": "https://openactive.io/facility-types#6a081b26-e16e-4c1d-a4d6-d65a370bced6",
+      "identifier": "6a081b26-e16e-4c1d-a4d6-d65a370bced6",
+      "type": "Concept",
+      "prefLabel": "Volleyball Court",
+      "activity": [
+        "https://openactive.io/activity-list#4a2ba988-045a-45d0-91a8-dbbfb33886b7"
+      ],
+      "notation": "volleyball_court",
       "topConceptOf": "https://openactive.io/facility-types"
     }
   ]
